@@ -1,15 +1,15 @@
 //
-//  Swift_UI_01Tests.swift
-//  Swift_UI_01Tests
+//  swift_01Tests.swift
+//  swift_01Tests
 //
-//  Created by 邓家祥 on 2018/6/11.
-//  Copyright © 2018年 邓家祥. All rights reserved.
+//  Created by 12 on 2018/4/23.
+//  Copyright © 2018年 DJX. All rights reserved.
 //
 
 import XCTest
-@testable import Swift_UI_01
+@testable import swift_01
 
-class Swift_UI_01Tests: XCTestCase {
+class swift_01Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()
